@@ -3,6 +3,7 @@
 ##Setting up wifi to connect to router
 
 1. Connect to drone's wifi
+
 ```
 telnet 192.168.1.1
 vi setupwifi.sh
